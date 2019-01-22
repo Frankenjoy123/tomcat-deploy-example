@@ -9,3 +9,7 @@ out
 gen
 /target/
 .DS_Store
+/src/main/bin/${app.output}/
+/tomcat/logs/
+/tomcat/tomcat.pid
+/tomcat.log
